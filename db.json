@@ -1,0 +1,94 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahim@mail.com",
+      "phone": "01284954021",
+      "password": "123456"
+    },
+    {
+      "name": "moka",
+      "email": "moka@mail.com",
+      "phone": "01222222222",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "بستلة دهان بلاستيك جوتن ايزي كوت ميديم تكس، 20 لتر، ابيض",
+      "price": 1726,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-easycoat-profile-decor-jot-80_1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "دهان بلاستيك جوتن ايزي كوت بروفايل ديكور، ابيض",
+      "price": 834,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-easycoat-profile-decor-jot-80_1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "جالون دهان جوتن تصميمات ليدي ميتالك ساند، 0.9 لتر، ابيض",
+      "price": 788,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-lady-design-jot-122.jpg"
+    },
+    {
+      "id": 4,
+      "title": "دهان بلاستيك جوتن فينوماستك هايجين أيملشن، ابيض",
+      "price": 696,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-fenomastic-hygiene-emulsion-silk-jot-44-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "دهان بلاستيك جوتن فينوماستيك بيتي مطفي غني، ابيض",
+      "price": 752,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/m/y/my_home_rich_matt.jpg"
+    },
+    {
+      "id": 6,
+      "title": "دهان بلاستيك جوتن فينوماستيك مذهل حياة، ابيض",
+      "price": 818,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-fenomastic-wonderwall-life-jot-48-1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "دهان بلاستيك بيرما ستار 1010 جي ال سي، أبيض",
+      "price": 116,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/g/l/glc-perma-star-1010-glc-46-1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "بستلة دهان بلاستيك باي تون جي ال سي، 14 كجم، أبيض",
+      "price": 522,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/g/l/glc-by-tone-glc-42.jpg"
+    },
+    {
+      "id": 9,
+      "title": "جالون دهان جوتن تصميمات ليدي ميتالك ساند، 0.9 لتر، ابيض",
+      "price": 988,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-lady-design-jot-122.jpg"
+    },
+    {
+      "id": 10,
+      "title": "دهان جوتن تصميمات ليدي رويال فيلفت، ابيض",
+      "price": 900,
+      "img": "https://bnaia.com/media/catalog/product/cache/30a1f5e05c6a45c77a6360240dea3840/j/o/jotun-lady-design-jot-119-1.jpg"
+    }
+  ],
+  "card": [
+    {
+      "user_id": 1,
+      "product_id": 2,
+      "count": 1,
+      "id": 1
+    },
+    {
+      "user_id": 2,
+      "product_id": 1,
+      "count": 1,
+      "id": 2
+    }
+  ]
+}
